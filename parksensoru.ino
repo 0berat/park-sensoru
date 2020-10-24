@@ -10,7 +10,7 @@ void setup() {
   pinMode(trig,OUTPUT);
   pinMode(echo,INPUT);
   pinMode(buzzer,OUTPUT);
-  
+  // git deneme dosya pull
 
 }
 
